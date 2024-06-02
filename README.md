@@ -1,4 +1,7 @@
-# Disable Low Ram Flag
+# ~~Disable Low Ram Flag~~
+
+## Moved to [MMAR/disable-low-ram](https://github.com/Magisk-Modules-Alt-Repo/disable-low-ram)
+ㅤ
 
 [![GitHub Release](https://img.shields.io/github/v/release/sekedus/disable-low-ram?label=Version)](https://github.com/sekedus/disable-low-ram) [![GitHub Release Date](https://img.shields.io/github/release-date/sekedus/disable-low-ram?label=Updated)](https://github.com/sekedus/disable-low-ram/releases) [![Minimum Magisk Version](https://img.shields.io/badge/minMagisk-20.4-00AF9C.svg?logo=Magisk)](https://github.com/sekedus/disable-low-ram?tab=readme-ov-file#requirements) [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/sekedus/disable-low-ram/total?logo=DocuSign&label=Downloads)](https://github.com/sekedus/disable-low-ram/releases/latest) [![GitHub License](https://img.shields.io/github/license/sekedus/disable-low-ram?logo=gnu&label=License)](https://github.com/sekedus/disable-low-ram/blob/main/LICENSE)
 
